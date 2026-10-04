@@ -3,6 +3,10 @@ name: douyin-videos-search
 description: 抖音热门视频搜索工具，支持按关键词搜索获取最多点赞热门内容数据，基于抖音的实时数据返回特定关键词的热门视频数据，助力创作者、品牌方和MCN机构发现热门趋势、获取创作灵感。支持四大能力：(1) 关键词搜索视频/图文，可按点赞数、发布时间、视频时长、内容类型筛选排序；(2) 实时热榜查询，获取抖音热搜词条与热度数据；(3) 博主作品抓取，按主页链接或 sec_uid 获取公开作品列表；(4) 视频评论分析，按视频链接或 aweme_id 获取评论内容与互动数据。
 license: MIT
 version: 1.3.0
+display_name: 🎯抖音热门视频检索
+display_name_en: DouYin Trending Video Search
+description_zh: 抖音热门视频搜索工具，支持按关键词搜索获取最多点赞热门内容数据，基于抖音的实时数据返回特定关键词的热门视频数据，助力创作者、品牌方和MCN机构发现热门趋势、获取创作灵感。
+description_en: DouYin Trending Video Search Tool. It supports searching by keywords to retrieve data of top-liked trending content. Based on real-time DouYin data, it returns trending video data for specified keywords, helping creators, brands and MCN agencies spot trending trends and gain creative inspiration.
 metadata:
   enabled: true
   type: command
